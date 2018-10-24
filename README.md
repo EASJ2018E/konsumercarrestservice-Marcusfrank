@@ -1,3 +1,5 @@
+Axios med frame
+
 # Webpack - TypeScript - SCSS
 this project is a beginner-friendly introduction to Webpack, Type Script and SCSS.
 This includes a simple webpack configuration including TypeScript and SCSS transporation
@@ -35,5 +37,3 @@ npm run webpack:prod
 ```
 That will minify your code and make is production ready
 
-### Author
-Ebbe Vang
